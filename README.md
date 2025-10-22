@@ -10,7 +10,7 @@ Exploring Netflix dataset using Python, Pandas & Matplotlib.
 ![Movies vs TV Shows](movies_vs_tvshows.png)
 
 ### 🍿 Content Ratings Distribution
-![Content Ratings Pie](content_Ratings_pie.png)
+![Content Ratings Pie](ratings_pie.png)
 
 ### ⏱️ Movie Duration Distribution
 ![Movie Duration Histogram](movie_duration_histogram.png)
